@@ -1,3 +1,8 @@
+> **About this fork:** an unmodified copy of
+> [googlecreativelab/morse-learn](https://github.com/googlecreativelab/morse-learn) that I
+> used to practice Morse code for Science Olympiad. All credit for the trainer goes to the
+> original authors listed below.
+
 # Morse Typing Trainer for Gboard
 We created this trainer to make learning Morse code more fun. Give it a try once you’ve set up [Morse code for Gboard](https://support.google.com/accessibility/android/answer/9011881) and are ready to get started learning Morse.
 
